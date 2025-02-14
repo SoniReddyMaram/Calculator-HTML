@@ -3,16 +3,18 @@
 A simple and stylish calculator built using HTML, CSS, and JavaScript. Perfect for basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features ✨
--**Basic Operations**: Add, subtract, multiply, and divide.
--**Responsive Design**: Works on desktop, tablet, and mobile devices.
--**Clean UI**: Minimalistic and user-friendly interface.
--**Keyboard Support**: Use your keyboard to input numbers and operations.
--**Error Handling**: Displays "Error" for invalid operations (e.g., division by zero).
+
+**Basic Operations**: Add, subtract, multiply, and divide.
+**Responsive Design**: Works on desktop, tablet, and mobile devices.
+**Clean UI**: Minimalistic and user-friendly interface.
+**Keyboard Support**: Use your keyboard to input numbers and operations.
+**Error Handling**: Displays "Error" for invalid operations (e.g., division by zero).
 
 ## Technologies Used 💻
--**HTML**: Structure of the calculator.
--**CSS**: Styling and layout.
--**JavaScript**: Logic and functionality.
+
+**HTML**: Structure of the calculator.
+**CSS**: Styling and layout.
+**JavaScript**: Logic and functionality.
 
 ## How to Use 🚀
 To run this projet locally, follow these steps:
