@@ -10,9 +10,9 @@ A simple and stylish calculator built using HTML, CSS, and JavaScript. Perfect f
 -**Error Handling**: Displays "Error" for invalid operations (e.g., division by zero).
 
 ## Technologies Used 💻
-**HTML**: Structure of the calculator.
-**CSS**: Styling and layout.
-**JavaScript**: Logic and functionality.
+-**HTML**: Structure of the calculator.
+-**CSS**: Styling and layout.
+-**JavaScript**: Logic and functionality.
 
 ## How to Use 🚀
 To run this projet locally, follow these steps:
@@ -30,11 +30,11 @@ To run this projet locally, follow these steps:
 ## Project Structure 📂
 
 - Calculator-HTML/
-  - index.html          # Main HTML file
-  - style.css           # CSS styles for the calculator
-  - script.js           # JavaScript logic for the calculator
-  - README.md           # This file
-  - screenshot.png      # Result screenshot
+  - index.html        
+  - style.css           
+  - script.js           
+  - README.md           
+  - screenshot.png      
 
 ## Contributing 🤝
 Contributions are welcome! If you'd like to improve this project, feel free to:
